@@ -22,7 +22,7 @@ COG Category fonksiyonları:
 A	RNA -
 ,
 
-# COG_category'ye göre gruplandırma
+# COG_category'ye göre gruplandırma..
 #df_grouped = df_exploded.groupby('COG_category')['Gen'].apply(list).reset_index()
 
 # Sonuçları görüntüleme
